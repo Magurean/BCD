@@ -1,0 +1,11 @@
+C:\Users\Andrei\source\repos\BCD\bin\Debug\netcoreapp3.1\BCD.exe
+C:\Users\Andrei\source\repos\BCD\bin\Debug\netcoreapp3.1\BCD.deps.json
+C:\Users\Andrei\source\repos\BCD\bin\Debug\netcoreapp3.1\BCD.runtimeconfig.json
+C:\Users\Andrei\source\repos\BCD\bin\Debug\netcoreapp3.1\BCD.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\BCD\bin\Debug\netcoreapp3.1\BCD.dll
+C:\Users\Andrei\source\repos\BCD\bin\Debug\netcoreapp3.1\BCD.pdb
+C:\Users\Andrei\source\repos\BCD\obj\Debug\netcoreapp3.1\BCD.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\BCD\obj\Debug\netcoreapp3.1\BCD.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\BCD\obj\Debug\netcoreapp3.1\BCD.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\BCD\obj\Debug\netcoreapp3.1\BCD.dll
+C:\Users\Andrei\source\repos\BCD\obj\Debug\netcoreapp3.1\BCD.pdb
